@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Home 1",
+        "image": "assets/listing.jpg",
+        "location": "Germany",
+        "price" : "125"
+    },
+    {
+        "title": "Home 2",
+        "image": "assets/listing.jpg",
+        "location": "England",
+        "price" : "200"
+    },
+    {
+        "title": "Home 3",
+        "image": "assets/listing.jpg",
+        "location": "Romanian",
+        "price" : "349"
+    }
+]
